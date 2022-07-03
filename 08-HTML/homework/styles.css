@@ -1,19 +1,50 @@
-h1{
-    color:indigo;
+h1 {
+    color: indigo;
+text-align: center;
 }
+
 img {
-width: 400px;
+    width: 400px;
 }
-#thirdDiv{
-height: 600px;
-width: 500px;
-background-color: aquamarine;
-padding: 50px;
-border-width: 40px;
-border-style: solid;
-border-color: brown;
+.divClass2{
+    width: 400px;
+    margin: 0 auto;
+    align-content: center;
+    background-color: yellow;
+    align-items: center;
+    justify-content: center;
 }
-#spanId{
-font-size: 18px;
-margin: 50px;
+#thirdDiv {
+    height: 600px;
+    width: 500px;
+    background-color: aquamarine;
+    padding: 50px;
+    border-width: 40px;
+    border-style: solid;
+    border-color: brown;
+    margin: 0 auto;
+    align-items: center;
+    justify-content: center;
+}
+.divClass{
+  background-color: azure;
+  width: 900px;
+  margin: 0 auto;
+  align-items: center;
+  justify-content: center;
+}
+
+#spanId {
+    font-size: 18px;
+    margin: 50px;
+    text-align: center;
+    color: blue;
+    
+}
+p{
+    text-align: justify;
+}
+
+body {
+    background-image: url(https://img.freepik.com/vector-gratis/dibujado-mano-lindo-fondo-contorno-mariposa_23-2149021590.jpg?w=2000);
 }
